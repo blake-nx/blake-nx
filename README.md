@@ -5,7 +5,6 @@ Full-Stack Engineer at @Nextlink working with Node.js, Next.js, integrating w/ A
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 
 *   🌍  I'm based in: Chat
-*   🖥️  See my portfolio at [blake-enloe.com](http://blake-enloe.com)
 *   🚀  I'm currently working on:
     *  [Node Proxima](http://github.com/blake-nx/node-proxima)
     *  [AI Scrum Assistant for Jira](https://marketplace.atlassian.com/apps/1230519?tab=overview&hosting=cloud)
