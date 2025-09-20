@@ -4,9 +4,7 @@ Hi 👋 My name is Blake Enloe
 Full-Stack Engineer at @Nextlink working with Node.js, Next.js, integrating w/ AI, driving Innovation in Web Development
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 
-*   🌍  I'm based in: Chat
 *   🚀  I'm currently working on:
-    *  [Node Proxima](http://github.com/blake-nx/node-proxima)
     *  [AI Scrum Assistant for Jira](https://marketplace.atlassian.com/apps/1230519?tab=overview&hosting=cloud)
 
 ### Skills 
